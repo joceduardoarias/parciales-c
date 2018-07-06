@@ -1,0 +1,10 @@
+1,Augusta,Viva
+2,Artus,Zoomdog
+3,Euphemia,Photospace
+4,Crysta,Mydo
+5,Trude,Gigashots
+6,Marie-jeanne,Dabfeed
+7,Blayne,Rhynyx
+8,Regen,Brightbean
+9,Junia,Rhycero
+10,Morie,Rhyzio
